@@ -1,3 +1,7 @@
+bqplot
+ipympl
+ipyvolume
+scipy
 voila
 fastai>=2
 pillow<7
